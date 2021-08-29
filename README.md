@@ -2,7 +2,7 @@
 
 ![download (2)](https://user-images.githubusercontent.com/71099757/131263547-112724c9-77dc-4265-8a33-e50ece420b78.png)
 
-<p style="text-align: justify;"  align="center"  >Today I'm create a website which will be a nice one page website. This is for html & css practice and through this project we will see many things like how we can make our website fully responsive, so many thing about pseudo elements, hamburger, Off-canvas menu and many more. Hope you will like this Project. Also You can download the source code from the link down below.</p>
+<p style="text-align: justify;"  align="center">Today I'm create a website which will be a nice one page website. This is for html & css practice and through this project we will see many things like how we can make our website fully responsive, so many thing about pseudo elements, hamburger, Off-canvas menu and many more. Hope you will like this Project. Also You can download the source code from the link down below.</p>
 
 <p style="font-size:50rem;" align="center" >Full Web Page</p>
 
